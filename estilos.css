@@ -23,10 +23,10 @@ body{
 
 /*Nav*/
 
-
 header{
     display: flex;
     justify-content: space-between;
+
 }
 
 nav ul{
